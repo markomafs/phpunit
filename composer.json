@@ -42,6 +42,10 @@
         {
             "type": "pear",
             "url": "http://pear.php.net"
+        }, 
+        {
+            "type": "git",
+            "url": "git@github.com:markomafs/phpunit-mock-objects"
         }
     ],
     "suggest": {
